@@ -1,0 +1,6 @@
+---
+  acquia_server: "cloudapi.acquia.com"
+  api_version_prefix: "/v1/"
+  credentials:
+    username: "######## YOUR USERNAME ########"
+    password: "######## YOUR PASSWORD ########"
